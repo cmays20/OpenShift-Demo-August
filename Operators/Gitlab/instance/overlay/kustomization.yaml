@@ -17,4 +17,4 @@ patches:
       version: v1
       kind: ConsoleLink
       name: gitlab
-    path: patch-domain.yaml
+    path: patch-console-link.yaml
